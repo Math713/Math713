@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Matheus Rodrigues
+# 👋 Olá! Sou o Matheus Rodrigues
 
-🎓 Estudante de Engenharia de Software (FIAP) – 1º ano  
+🎓 Estudante de Engenharia de Software (FIAP) – 2º ano  
 💻 Focado em **Java**, **Python**, Git e desenvolvimento backend  
 🚀 Buscando minha primeira oportunidade como estagiário em TI  
 
@@ -19,6 +19,12 @@
 - **Library System (Java — Generics)**  
   Sistema simples de gerenciamento de biblioteca utilizando Generics para organizar livros e usuários.
 
+- **Unique Words Game (Java – Set, Collections, Streams API)**  
+Jogo interativo em console que desafia o jogador a digitar palavras únicas. 
+Demonstra o uso de `HashSet` para armazenamento eficiente, validação de entrada 
+e operações da Streams API. Sistema de pontuação com conquistas e limite de erros.
+
+  
 ---
 
 ## 📫 Como falar comigo
