@@ -19,12 +19,14 @@
 - **Library System (Java — Generics)**  
   Sistema simples de gerenciamento de biblioteca utilizando Generics para organizar livros e usuários.
 
-- **Unique Words Game (Java – Set, Collections, Streams API)**  
-Jogo interativo em console que desafia o jogador a digitar palavras únicas. 
-Demonstra o uso de `HashSet` para armazenamento eficiente, validação de entrada 
-e operações da Streams API. Sistema de pontuação com conquistas e limite de erros.
+- **Unique Words Game (Java — Set, Collections, Streams API)**  
+  Jogo interativo em console que desafia o jogador a digitar palavras únicas. 
+  Demonstra o uso de `HashSet` para armazenamento eficiente, validação de entrada 
+  e operações da Streams API. Sistema de pontuação com conquistas e limite de erros.
 
-  
+- **Transaction CLI (Java — Map, Streams, CLI)**  
+  Sistema em console para gerenciamento de transações financeiras, demonstrando uso de Map para controle de dados, Streams API para filtros e cálculos e boas práticas como encapsulamento e imutabilidade.
+
 ---
 
 ## 📫 Como falar comigo
