@@ -1,35 +1,69 @@
-# 👋 Olá! Sou o Matheus Rodrigues
+# 👋 Matheus Rodrigues
 
-🎓 Estudante de Engenharia de Software (FIAP) – 2º ano  
-💻 Focado em **Java**, **Python**, Git e desenvolvimento backend  
-🚀 Buscando minha primeira oportunidade como estagiário em TI  
-
----
-
-## 🛠️ Tecnologias que estou estudando
-- Java  
-- Python  
-- SQL  
-- Git & GitHub  
-- Estruturas de Dados  
+**Software Engineering Student @ FIAP (2nd Year)**  
+Backend-focused student building well-structured, reliable, and scalable applications.
 
 ---
 
-## 📂 Projetos em destaque
-- **Library System (Java — Generics)**  
-  Sistema simples de gerenciamento de biblioteca utilizando Generics para organizar livros e usuários.
+## 🚀 Professional Profile
 
-- **Unique Words Game (Java — Set, Collections, Streams API)**  
-  Jogo interativo em console que desafia o jogador a digitar palavras únicas. 
-  Demonstra o uso de `HashSet` para armazenamento eficiente, validação de entrada 
-  e operações da Streams API. Sistema de pontuação com conquistas e limite de erros.
+Software Engineering student seeking a **Backend Internship / Junior position**, with hands-on experience in **Java backend development**, relational databases, and clean architecture principles.
 
-- **Transaction CLI (Java — Map, Streams, CLI)**  
-  Sistema em console para gerenciamento de transações financeiras, demonstrando uso de Map para controle de dados, Streams API para filtros e cálculos e boas práticas como encapsulamento e imutabilidade.
+Strong focus on **code quality**, **layered architecture**, and **data integrity**, developed through practical, portfolio-oriented projects.
+
+**Core strengths:**
+- 🏛️ Backend architecture using the **DAO pattern** and clear separation of responsibilities  
+- 🛡️ Null-safe code with **`Optional<T>`**, defensive validations, and structured exception handling  
+- 💾 Relational database design, **Soft Delete**, and SQL queries with aggregations  
 
 ---
 
-## 📫 Como falar comigo
-- **Email:** matheusrrs3007@gmail.com  
-- **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/matheus-rodrigues-8b64783a0)
+## 🛠️ Technical Skills
+
+- **Languages:** Java (17+), Python *(intermediate)*  
+- **Backend & Data:** JDBC, SQL(MySQL)  
+- **Tools:** Git, GitHub, IntelliJ IDEA  
+- **Concepts:** CRUD, Transactions, Soft Delete, Relational Modeling  
+
+---
+
+## 📂 Highlighted Projects
+
+### 🏦 Bank Management CLI  
+🔗 https://github.com/Math713/bank-cli-jdbc
+
+Command-line banking system designed to demonstrate backend maturity and database-driven business logic.
+
+- **Stack:** Java 17, JDBC, MySQL  
+- **Technical Highlights:**
+  - Soft Delete implementation to preserve financial history  
+  - Dynamic balance calculation via SQL (`SUM` + `CASE WHEN`)  
+  - Usage of `Optional<T>` to prevent `NullPointerException`  
+  - Clean layered architecture using DAO  
+
+---
+
+### 📚 Library System  
+🔗 https://github.com/Math713/library-generics-java
+
+Library management system focused on **Generics** and reusable, type-safe design.
+
+- Emphasis on clean abstractions and extensible structure
+
+---
+
+### 🎮 Unique Words Game  
+🔗 https://github.com/Math713/unique-words-game
+
+Logic-focused project exploring **Java Collections Framework**.
+
+- Efficient use of `Set` / `HashSet`
+- Functional-style logic using Streams API
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/matheus-rodrigues-8b64783a0/  
+- **Email:** matheusrs3007@gmail.com
 
