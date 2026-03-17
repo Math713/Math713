@@ -35,7 +35,7 @@ Building well-structured REST APIs with Java & Spring Boot.
 | Project | Description | Stack |
 |---|---|---|
 | [👤 User Management API](https://github.com/Math713/user-management-api) | REST API with layered architecture, DTO pattern, custom exceptions, email validation and unit tests | Java · Spring Boot · PostgreSQL · JUnit 5 · Swagger |
-| [🏦 Bank Management CLI](https://github.com/Math713/bank-cli-jdbc) | CLI banking system with soft delete, dynamic balance via SQL and DAO pattern | Java · JDBC · MySQL |
+| [🏦 Bank Management CLI](https://github.com/Math713/jdbc-management-system-cli) | CLI banking system with soft delete, dynamic balance via SQL and DAO pattern | Java · JDBC · MySQL |
 | [📚 Library System](https://github.com/Math713/library-generics-java) | Type-safe library management exploring Java Generics | Java |
 | [🎮 Unique Words Game](https://github.com/Math713/unique-words-game) | Logic game using Collections Framework and Streams API | Java |
 
