@@ -25,6 +25,7 @@ Building well-structured REST APIs with Java & Spring Boot.
 ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=flat-square)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -34,7 +35,7 @@ Building well-structured REST APIs with Java & Spring Boot.
 
 | Project | Description | Stack |
 |---|---|---|
-| [👤 User Management API](https://github.com/Math713/user-management-api) | REST API with layered architecture, DTO pattern, custom exceptions, email validation and unit tests | Java · Spring Boot · PostgreSQL · JUnit 5 · Swagger |
+| [👤 User Management API](https://github.com/Math713/user-management-api) | REST API with layered architecture, DTO pattern, custom exceptions, email validation and unit tests | Java · Spring Boot · PostgreSQL · Docker · JUnit 5 · Swagger |
 | [🏦 Bank Management CLI](https://github.com/Math713/jdbc-management-system-cli) | CLI banking system with soft delete, dynamic balance via SQL and DAO pattern | Java · JDBC · MySQL |
 | [📚 Library System](https://github.com/Math713/library-generics-java) | Type-safe library management exploring Java Generics | Java |
 | [🎮 Unique Words Game](https://github.com/Math713/unique-words-game) | Logic game using Collections Framework and Streams API | Java |
@@ -44,7 +45,6 @@ Building well-structured REST APIs with Java & Spring Boot.
 ## 📚 Currently Learning
 
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-25A162?style=flat-square)
 
 ---
